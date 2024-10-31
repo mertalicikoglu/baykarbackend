@@ -22,6 +22,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'rest_framework',        # Django REST Framework
+    'drf_yasg',
     'rest_framework.authtoken',  # Token tabanlı kimlik doğrulama
     'app',  # Kendi uygulamanızın adı
 ]

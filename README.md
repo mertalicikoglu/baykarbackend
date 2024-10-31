@@ -82,6 +82,8 @@ Bu proje, hava aracı üretim sürecini yöneten bir Django REST API uygulaması
 - **Uçaklar**: `/aircraft/` - Uçak oluşturma, listeleme, güncelleme, silme.
 - **Montaj**: `/aircraft/{id}/assemble/` - Uçak montajı.
 
+### Swagger Dokümantasyonu
+Swagger ile API endpoint'lerini görmek ve test etmek için `http://127.0.0.1:8000/swagger/` adresini kullanabilirsiniz.
 
 ## Testler
 
