@@ -1,0 +1,5 @@
+Django==4.2            # Django Framework
+djangorestframework==3.14.0  # Django REST Framework
+djangorestframework-simplejwt==5.2.2  # JWT tabanlı kimlik doğrulama
+psycopg2-binary==2.9.6   # PostgreSQL veritabanı için Python arayüzü
+drf-yasg==1.21.5      # Swagger API dokümantasyonu için
